@@ -1,28 +1,7 @@
 # Onshape-Dot
-
-AutoHotkey utility that maps the Numpad Comma to a Dot (.) to make numeric input easier in Onshape.
-
-## Table of contents
-
-- [About](#about)
-- [Files](#files)
-- [Download](#download)
-- [Run](#run)
-- [Run at startup (recommended)](#run-at-startup-recommended)
-- [Uninstall / Remove](#uninstall--remove)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About
 
-Onshape-Dot is a small Windows utility that converts the Numpad Comma key into a period (dot) while running. This is useful when your keyboard layout or locale produces a comma on the numpad but you need a dot for decimal input in Onshape.
-
-## Files
-
-- [onshape-dot.exe](./onshape-dot.exe) — Compiled executable you can run directly.
-- [bin/](./bin) — Optional build artifacts and resources.
-- [LICENSE](./LICENSE) — Project license.
+Small Windows utility that maps the Numpad Comma to a Dot (.) to make numeric input easier in Onshape. Written in Autohotkey v2. 
 
 ## Download
 
@@ -63,7 +42,7 @@ The program will then launch automatically the next time you sign in.
 
 ## Contributing
 
-Bug reports, suggestions, and pull requests are welcome. If you want an installer or support for multiple layouts, open an issue or PR.
+Bug reports, suggestions, and pull requests are welcome.
 
 ## License
 
